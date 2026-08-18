@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\bin\Debug\X.Tallerpunto1.exe.config
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\bin\Debug\X.Tallerpunto1.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\bin\Debug\X.Tallerpunto1.pdb
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\obj\Debug\X.Tallerpunto1.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\obj\Debug\X.Tallerpunto1.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\obj\Debug\X.Tallerpunto1.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto1\obj\Debug\X.Tallerpunto1.pdb
