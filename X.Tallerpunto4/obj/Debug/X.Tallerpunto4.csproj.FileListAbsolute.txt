@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\bin\Debug\X.Tallerpunto4.exe.config
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\bin\Debug\X.Tallerpunto4.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\bin\Debug\X.Tallerpunto4.pdb
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\obj\Debug\X.Tallerpunto4.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\obj\Debug\X.Tallerpunto4.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\obj\Debug\X.Tallerpunto4.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\X.Tallerpunto4\obj\Debug\X.Tallerpunto4.pdb
