@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.pdb
