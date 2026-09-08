@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\bin\Debug\Taller2Ciclos2.exe.config
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\bin\Debug\Taller2Ciclos2.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\bin\Debug\Taller2Ciclos2.pdb
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\obj\Debug\Taller2Ciclos2.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\obj\Debug\Taller2Ciclos2.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\obj\Debug\Taller2Ciclos2.exe
+C:\Users\B09S304est\Downloads\Jeronimo Uribe\FundamentosdeProgramacionMJ12JeronimoUribe\Taller2Ciclos2\obj\Debug\Taller2Ciclos2.pdb
