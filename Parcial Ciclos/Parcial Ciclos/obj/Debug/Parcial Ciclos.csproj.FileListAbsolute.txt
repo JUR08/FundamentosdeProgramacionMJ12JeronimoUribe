@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\obj\Debug\Parcial Ciclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\obj\Debug\Parcial Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\bin\Debug\Parcial Ciclos.exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\bin\Debug\Parcial Ciclos.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\bin\Debug\Parcial Ciclos.pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\obj\Debug\Parcial Ciclos.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Parcial Ciclos\Parcial Ciclos\obj\Debug\Parcial Ciclos.pdb
