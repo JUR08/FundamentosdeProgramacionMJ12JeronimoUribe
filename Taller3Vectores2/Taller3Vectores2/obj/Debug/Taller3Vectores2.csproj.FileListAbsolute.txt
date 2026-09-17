@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\bin\Debug\Taller3Vectores2.exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\bin\Debug\Taller3Vectores2.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\bin\Debug\Taller3Vectores2.pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\obj\Debug\Taller3Vectores2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\obj\Debug\Taller3Vectores2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\obj\Debug\Taller3Vectores2.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\Taller3Vectores2\Taller3Vectores2\obj\Debug\Taller3Vectores2.pdb
