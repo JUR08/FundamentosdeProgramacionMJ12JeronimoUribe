@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\obj\Debug\17.ArreglosBidimensionales-Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\obj\Debug\17.ArreglosBidimensionales-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\bin\Debug\17.ArreglosBidimensionales-Matrices.exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\bin\Debug\17.ArreglosBidimensionales-Matrices.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\bin\Debug\17.ArreglosBidimensionales-Matrices.pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\obj\Debug\17.ArreglosBidimensionales-Matrices.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\17.ArreglosBidimensionales-Matrices\17.ArreglosBidimensionales-Matrices\obj\Debug\17.ArreglosBidimensionales-Matrices.pdb
