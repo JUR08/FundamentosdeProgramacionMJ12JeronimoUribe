@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\obj\Debug\18.Programaciónmodular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\obj\Debug\18.Programaciónmodular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\bin\Debug\18.Programaciónmodular.exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\bin\Debug\18.Programaciónmodular.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\bin\Debug\18.Programaciónmodular.pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\obj\Debug\18.Programaciónmodular.exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\18.Programaciónmodular\18.Programaciónmodular\obj\Debug\18.Programaciónmodular.pdb
