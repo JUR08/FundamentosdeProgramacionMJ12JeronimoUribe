@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\bin\Debug\Taller4Matrices2.exe.config
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\bin\Debug\Taller4Matrices2.exe
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\bin\Debug\Taller4Matrices2.pdb
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\obj\Debug\Taller4Matrices2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\obj\Debug\Taller4Matrices2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\obj\Debug\Taller4Matrices2.exe
+C:\Users\User\source\repos\Taller4Matrices2\Taller4Matrices2\obj\Debug\Taller4Matrices2.pdb
