@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\bin\Debug\19.ProgramaciónModular(ejercicio).exe.config
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\bin\Debug\19.ProgramaciónModular(ejercicio).exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\bin\Debug\19.ProgramaciónModular(ejercicio).pdb
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\obj\Debug\19.ProgramaciónModular(ejercicio).csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\obj\Debug\19.ProgramaciónModular(ejercicio).csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\obj\Debug\19.ProgramaciónModular(ejercicio).exe
+C:\Users\B09S104est\Downloads\yo\FundamentosdeProgramacionMJ12JeronimoUribe\19.ProgramaciónModular(ejercicio)\19.ProgramaciónModular(ejercicio)\obj\Debug\19.ProgramaciónModular(ejercicio).pdb
